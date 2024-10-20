@@ -2,7 +2,7 @@
 
 - 🔭 Physics student at Federal University of Paraná  
 - 📚 Learning C, JavaScript, and Python
-- 🧬 Currently working on a project of molecular dynamics simulations
+- 🧬 Currently working on a project of biomolecular dynamics simulations
 
 <div align="center">
   <a href="https://github.com/gabimafuzo">
